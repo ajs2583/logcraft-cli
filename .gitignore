@@ -1,0 +1,13 @@
+# Build / install
+*.egg-info/
+*.egg
+dist/
+build/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editable install
+src/*.egg-info/
